@@ -1,0 +1,4 @@
+﻿  UnitTest_5.2.cpp
+C:\Users\User\source\repos\UnitTest_5.2\UnitTest_5.2.cpp(16,10): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+     Creating library C:\Users\User\source\repos\pr5.2\Debug\UnitTest_5.2.lib and object C:\Users\User\source\repos\pr5.2\Debug\UnitTest_5.2.exp
+  UnitTest_5.2.vcxproj -> C:\Users\User\source\repos\pr5.2\Debug\UnitTest_5.2.dll
